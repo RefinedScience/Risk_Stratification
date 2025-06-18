@@ -1,0 +1,15 @@
+# Ignore everything
+# Ignore all
+*
+# Unignore directories
+!*/
+
+# Unignore all R files
+!section_*/**/*.R
+
+# Unignore Utilities
+!Utilities/**/*.R
+
+#Unignore ignore
+!.gitignore
+
