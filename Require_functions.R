@@ -1,4 +1,4 @@
-## Definitions of inputs 
+## Definitions of inputs and functions
 # udata = Analytical dataset saved as a tibble or dataframe. 
 
 
