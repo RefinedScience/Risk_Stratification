@@ -4,7 +4,7 @@ author:
  - name: Nazmul Islam, PhD
    email: nazmul.islam@refinedscience.com
    correspondence: true
-date: "06/18/2025"
+date: "07/06/2025"
 output:
   html_document:
     code_folding: hide
@@ -21,6 +21,10 @@ output:
 title: "An illustration for the development of a dynamic counterfactual risk stratification strategy for simulated acute myeloid leukemia patients treated with venetoclax and azacitidine"
 word_document: default
 ---
+
+# Copyright disclaimer and license notice
+©2025 AML JV, LLC.  All rights reserved.  Use of this software is subject to the AML JV, 
+LLC Non-Commercial Research License. No other use of this software, including, without limitation, use for any commercial purposes, is permitted without the express written consent of AML JV, LLC.
 
 # Overview
 This HTML report illustrates the implementation of a counterfactual risk stratification strategy, as outlined in the manuscript. A synthetic dataset, consisting of 200 subjects and over 215 features, was developed to support the model development and validation processes. The features were simulated using common statistical distributions, including exponential, binomial, uniform, and Poisson distributions. It is important to note that the synthetic dataset was created solely for illustrative purposes and does not hold any clinical significance or suggest any relevant association with overall survival. Therefore, the interpretation of results lacks any clinical relevance. The report is structured into nine sections, beginning with the loading of the necessary R packages and concluding with a numerical assessment.
