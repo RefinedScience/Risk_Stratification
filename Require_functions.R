@@ -1,3 +1,28 @@
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+
+
+
+# ©2025 AML JV, LLC.  All rights reserved.  Use of this software is subject to the AML JV, 
+# LLC Non-Commercial Research License. No other use of this software, including, without 
+# limitation, use for any commercial purposes, is permitted without the express written consent 
+# of AML JV, LLC.
+
+
+
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+######################### # Copyright disclaimer and license notice ##################################
+
+
+
 ## Definitions of inputs and functions
 # udata = Analytical dataset saved as a tibble or dataframe. 
 
